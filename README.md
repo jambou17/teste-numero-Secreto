@@ -29,4 +29,12 @@ Este jogo gera um número secreto e desafia o jogador a adivinhar qual é, com b
 ---
 
 ## 📦 Estrutura do Projeto
+📦teste-numero-Secreto
+┣ 📜index.html
+┣ 📜style.css
+┗ 📜app.js
 
+🌟 Contribuições
+
+Contribuições são bem-vindas, mesmo que seja só para melhorar o README ou sugerir melhorias no jogo!
+Basta fazer um fork, criar uma branch com sua feature e enviar um pull request.
